@@ -1,0 +1,3 @@
+= Camping OAuth 
+
+This is an OAuth plugin for the Ruby Camping framework, inspired by Pelle Braendgaard's OAuth gem and its Rails plugin (see http://github.com/pelle/oauth). Pelle allowed me to reuse and adapt the actual Rails plugin code for Camping. This provides much better consistency between the two web frameworks.
